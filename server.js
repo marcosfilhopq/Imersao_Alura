@@ -45,3 +45,5 @@ app.listen(3000, () => {
 // });
 
 // So pra ver se ta funcionando mesmo!!!!!
+
+//https://imersaoalura-555524774126.southamerica-east1.run.app/posts
