@@ -32,7 +32,6 @@ app.listen(3000, () => {
 // Função assíncrona para obter todos os posts do banco de dados
 
 
-
 // function buscarPostsPorID(id) {
 //     return posts.findIndex((post) => {
 //         return post.id === Number(id)
@@ -45,3 +44,4 @@ app.listen(3000, () => {
 //     res.status(200).json(posts[index]);
 // });
 
+// So pra ver se ta funcionando mesmo!!!!!
